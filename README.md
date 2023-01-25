@@ -20,7 +20,7 @@ git clone https://github.com/UtrGrd/otus_hw_32_OSPF && cd otus_hw_32_OSPF && vag
  ![Image 1](https://raw.githubusercontent.com/UtrGrd/otus_hw_32_OSPF/da4f9a74f1a52474588260cfe0327b0f2aa80510/ospf.png) <br/><br/>
 
  
-Настроены следующие мершруты:
+Настроены следующие маршруты:
 ```
 [root@r1 ~]# ip r s
 default via 10.0.2.2 dev eth0 proto dhcp metric 100 
